@@ -1,0 +1,101 @@
+Software vulnerability prediction using text analysis techniques
+On managing vulnerabilities in AI/ML systems
+Efficient concurrency-bug detection across inputs
+A flexible framework for detecting IPv6 vulnerabilities
+Toward detection and characterization of variability bugs in configurable C software : an empirical study
+Chucky: exposing missing checks in source code for vulnerability discovery
+CVEfixes: automated collection of vulnerabilities and their fixes from open-source software
+Python predictive analysis for bug detection
+Linux kernel vulnerabilities : state-of-the-art defenses and open problems
+Automatic repair of OWASP Top 10 security vulnerabilities : A survey
+Automated detection of client-state manipulation vulnerabilities
+Automated software vulnerability assessment with concept drift
+'MACKE: compositional analysis of low-level vulnerabilities with symbolic execution'
+Automatically detecting and fixing concurrency bugs in go software systems
+'VulSeeker: a semantic learning based vulnerability seeker for cross-platform binary'
+The vreliability of NVD vulnerable versions data: an empirical experiment on Google Chrome vulnerabilities
+System-level hardware failure prediction using deep learning
+Path sensitive static analysis of web applications for remote code execution vulnerability detection
+Mitigating program security vulnerabilities : Approaches and challenges
+OSPF vulnerability to persistent poisoning attacks: a systematic analysis
+An overview of a proof-based approach to detecting C vulnerabilities
+Augmenting vulnerability analysis of binary code
+Combining bug detection and test case generation
+Wafer map defect patterns classification using deep selective learning
+DISCOVER: detecting algorithmic complexity vulnerabilities
+A hybrid analysis to detect Java serialisation vulnerabilities
+Machine-learning supported vulnerability detection in source code
+Improving bug detection and fixing via code representation learning
+Are vulnerabilities discovered and resolved like other defects?
+The method of optimizing the automatic vulnerability validation
+NerdBug: automated bug detection in neural networks
+A large scale exploratory analysis of software vulnerability life cycles
+Lessons learned from using a deep tree-based model for software defect prediction in practice
+Predicting and fixing vulnerabilities before they occur: a big data approach
+Analyzing APIs documentation and code to detect directive defects
+Can we use software bug reports to identify vulnerability discovery strategies
+A manually-curated dataset of fixes to vulnerabilities of open- source software
+Automatically fixing security vulnerabilities in Java code
+DeepBugs: a learning approach to name-based bug detection
+CrossVul: a cross-language vulnerability dataset with commit data
+Source code and binary level vulnerability detection and hot patching
+CVEfixes: automated collection of vulnerabilities and their fixes from open- source software
+Empirical results on the study of software vulnerabilities (NIER track)
+Discovering buffer overflow vulnerabilities in the wild: an empirical study
+High false positive detection of security vulnerabilities : a case study
+Latent feature vulnerability ranking of CVSS vectors
+A system-level perspective to understand the vulnerability of deep learning systems
+"'Code-based vulnerability detection in Node.js applications: how far are we?'
+A machine learning based approach to identify SQL injection vulnerabilities
+An initial study on the use of execution complexity metrics as indicators of software vulnerabilities'
+Generalized vulnerability extrapolation using abstract syntax trees
+Machine- learning supported vulnerability detection in source code
+VulPecker: an automated vulnerability detection system based on code similarity analysis
+Undangle: early detection of dangling pointers in use -after-free and double-free vulnerabilities
+Comparing fine-grained source code changes and code churn for bug prediction
+Integer overflow vulnerabilities detection in software binary code
+Cerebro: context-aware adaptive fuzzing for effective vulnerability detection
+Improving bug detection via context-based code representation learning and attention-based\n neural networks
+Challenges with applying vulnerability prediction models
+Ethainter: a smart contract security analyzer for composite vulnerabilities
+
+
+"'Enabling static security vulnerability analysis in PHP applications for novice developers\n with SSVChecker'
+"'Evaluating and comparing complexity
+"'Signal strength as support to mobility detection on failure detectors'
+"'A practical investigation of identity theft vulnerabilities in Eduroam'
+"'A soft error vulnerability analysis framework for Xilinx FPGAs'
+'Automated testing for SQL injection vulnerabilities : an input mutation approach'
+'The landscape of cybersecurity vulnerabilities and challenges in healthcare: Security\n standards and paradigm shift recommendations'
+"'A survey of security vulnerabilities in ethereum smart contracts'
+"'Code -motion for API migration: fixing SQL injection vulnerabilities in Java'
+"'Code-based vulnerability detection in Node.js applications: how far are we?'
+"'Leveraging product relationships to generate candidate bugs for duplicate bug prediction'
+"'Moisture vulnerability of antenna operation in UHF band'
+"'Troll vulnerability in online social networks'
+"'Conceptual and methodological tools for analyzing situations of vulnerability on the\n road: examples from a motorcycle riding study'
+"'Analysis of vulnerability to facebook users'
+"'Automatic vulnerability detection for weakness visualization and advisory creation'
+"'A security vulnerability analysis of SoCFPGA architectures'
+"'Using the gini coefficient for bug prediction in eclipse'
+'VulSeeker-pro: enhanced semantic learning based binary vulnerability seeker with emulation'
+'A comprehensive study of deep learning compiler bugs'
+"'Leopard: identifying vulnerable code for vulnerability assessment through program metrics'
+"'Do #ifdefs influence the occurrence of vulnerabilities ? an empirical study of the\n linux kernel'
+'Automated detection and mitigation of inter-application security vulnerabilities in\n Android (invited talk)'
+"'Just-in-time bug prediction in mobile applications: the domain matters!'
+'BF- detector : an automated tool for CI build failure detection'
+"'A first-order mechanistic model for architectural vulnerability factor'
+'Privacy vulnerability of published anonymous mobility traces'
+'Dynamically enabled defense effectiveness evaluation of a home Internet based on vulnerability \n analysis and attack layer measurement'
+"'Multi-layered graph-based model for social engineering vulnerability assessment'
+"'Typestate-guided fuzzer for discovering use-after-free vulnerabilities'
+'NAR-miner: discovering negative association rules from code for bug detection'
+"'UMLAUT: Debugging Deep Learning Programs using Program Structure and Model Behavior'
+"'Machine learning -based anomaly detection for post-silicon bug diagnosis'
+'Discovering software vulnerabilities using data-flow analysis and machine learning'
+BovInspector: automatic inspection and repair of buffer overflow vulnerabilities
+Patch based vulnerability matching for binary programs
+An idea of an independent validation of vulnerability discovery models
+Identifying bug -inducing changes for code additions
+Feature-based detection of bugs in clones

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "literaturereview-325215",
+  "private_key_id": "dff8defafb5aba596a0f2664fd57c0504682a0f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCt0gS52IDD1sod\n3KbliMTklzU2vJvJpgXau8oPdgdwg7wpJY7m6f5tFyim9Rf8tYaA9kGP998+NHMX\nkG2+CFE6mBzL78QQF4VPEmkmc4IJ+HxLaSJ6CVRxgXJQ7vyjP9YkKfT+v+rgw6EJ\nWau1HR9Sb8XHAHMcmUPEpcTRNJv8ZjSPvRN+toaWP4G/zd5V6kdsUxkeBoxFTBZv\n6bFSGulbjOnKgq7yKiAHYb0TcgDdEtyFbuMcE/WIucjnpCvxGUO2sslQ/cUuVd2C\nXvrLF6o8Qzhl/rqC+KSk3Aq8617C6RfR33dLpfH3oAxGfNThndCtOBaeM5a0xJkj\nlt2S/fXBAgMBAAECggEACct04rgVgXOgDhC6AuMzHSJ8KCp2qOVHHS1J1Jc1Eh0K\nRFNOeyqiYKlWbBoRkPb1rlyyExfHp6yy85f65yN22FNsA/3t0W5R38PM0xLdOAyd\njG5POAtAi+jcdT0SVWyqd305xgUwihvb/jfkWh9a/X046t7WnbzxOaqRraxGQfG0\nn3ARZnPFi/R9HhssmxIOJIp1G9sV68bfVpiPJXCyb64HI6vXqWQcsxg8ZDX6o+Ff\ngTtUWKiVScelrvMRd6E6qnseSz9mxvRt2grgeHaSWFu6Bb8+S9SH53kzY29iIVuO\neX7OX2RfbeojMU+qqlt3E3c1eHQKN79M728eZ0OedQKBgQDhL0gTCgeySVMclpJx\naN7sma5xTSYcXN73etELixNhT9UiJ/6kh05Rugxvjc6mJrHBVtINgCSd2y83mITc\nIy/FvAY7WQaiP9WtxDoaNpadcZ97qFCJVFRN1G+NCTF0tW43KoTiQZq/yTzD6Zrb\nkbJlO7mWmeECl9Qz3M/MdS0LRwKBgQDFm1TZLzZIA9t52LsiLoGZuXA0Tni/2AL7\nx49Xg8yv4PwA6g4+C31Q4yORAlHYDacX0BI5FaqUldaUdNmL7Q7V1AIciQEvqXGB\nBdcQdPXeNpD+j/rbf0YDNqn83F0f3Po7CzmYSJackWhELCkHYe8QSrltQSaDfayf\nUOUGRqTqtwKBgQCcCCoV3zZUCFDJl1/jq3oEUby5D28f6g4pR3XAXN7R6AJUB4h/\nsq3HHXZuecE+CcPTpvgnmKpGo1DFYi51ZwA8MDvVNavOExNZs4VbEoYslEWg5pDf\nh4pe35toC320U98J5LFtIW48BBHR4nWGPR9y2/6N5xQtusy0HwXxsyPCEwKBgQCh\nSeuzaamwlhVqGtCDUdpOkuFWkEZWsAWfZH9HOziyxbxrMp91XQNoJj09ets6scoU\n0axOE7UrmjGO8uEuKMvXFDi0+c6SDIesfAvSTuTv/zHR1cs3pWaL8O5Gicco3sEP\nuFXGSllEahrkqfbDI9hxP8yhtG+vG8DuOKT2vmqVeQKBgClC6CwTWtNnkZZcPgzo\nLnmXYUKwJU7ctpbMtRc/Z+14FbJLodmvyCAAIXOeJYegAJKPG1+loFvY+z1Jjv4Q\nLTa9jSYNg9hGFu5jvvcs2AI0bZZMHzwSVM4MuhnLnLvYmjfLhBu8oumdpCoKxezW\nH1tmCNaiE+3nWA7hKtxaDh3k\n-----END PRIVATE KEY-----\n",
+  "client_email": "literaturereview@literaturereview-325215.iam.gserviceaccount.com",
+  "client_id": "114027386180850014325",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/literaturereview%40literaturereview-325215.iam.gserviceaccount.com"
+}
